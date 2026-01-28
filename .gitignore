@@ -17,3 +17,6 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+/scraper/user_data
+/scraper/cookies.json
+/scraper/node_modules

@@ -1,0 +1,14 @@
+{
+  "name": "senior-auto-apply-scraper",
+  "version": "1.0.0",
+  "description": "LinkedIn Scraper for SeniorAutoApply",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "playwright": "^1.57.0"
+  }
+}
